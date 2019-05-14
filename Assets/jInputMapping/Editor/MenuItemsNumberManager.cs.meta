@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 05e6dd7a467c15a4fabcc1dd56b71b07
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MappingManager: {fileID: 100000, guid: 5f29f01cdea2d7349a6e598800ddddeb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

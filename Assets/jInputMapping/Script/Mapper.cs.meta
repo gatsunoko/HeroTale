@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2700aebf2792f0145ae4596e266dfb10
+timeCreated: 1445014035
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jInputSOData: {fileID: 11400000, guid: 0636d153980332046b892205093eed03, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

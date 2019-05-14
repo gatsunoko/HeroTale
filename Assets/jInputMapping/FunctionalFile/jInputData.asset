@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d4e34cc3fb771438fa2f69badf72c3, type: 3}
+  m_Name: jInputData
+  m_EditorClassIdentifier: 
+  DeadZone: 0.15
+  Gravity: 5
+  Sensitivity: 3
+  AxesFoldoutBool: 0
+  OpenCloseSetFoldoutBool: 0
+  ExcludeDeviceFoldoutBool: 0
+  SameMappingFoldoutBool: 0
+  UnusableKeyFoldoutBool: 0
+  UGUINumListsFoldoutBool: 0
+  DefaKeyFoldoutBool: 1
+  DefaKey1pFoldoutBool: 1
+  DefaKey2pFoldoutBool: 0
+  DefaKey3pFoldoutBool: 0
+  DefaKey4pFoldoutBool: 0
+  DefaultInputNameInconsistencyCheck: 0
+  DefaKeyButtonOffCheck: 0
+  DefaKeyInconsistencyListText: 
+  PlayerNum: 1
+  DefaultInputArray:
+  - UpArrow
+  - DownArrow
+  - RightArrow
+  - LeftArrow
+  - Z
+  - X
+  - Q
+  DefaultInputArray2p: []
+  DefaultInputArray3p: []
+  DefaultInputArray4p: []
+  MappingManagerPrefab: {fileID: 100000, guid: 5f29f01cdea2d7349a6e598800ddddeb, type: 3}
+  Ist: {fileID: 0}
+  UpMoveNumList: 00000000
+  DownMoveNumList: 01000000
+  RightMoveNumList: 02000000
+  LeftMoveNumList: 03000000
+  UGUISubmitNumList: 
+  UGUICancelNumList: 
+  UnusableKeyList: []

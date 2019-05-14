@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: de7aa3e0812d3d04a96d1737ee6b1cf0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jInputSOData: {fileID: 11400000, guid: 0636d153980332046b892205093eed03, type: 2}
+  - TextComponent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

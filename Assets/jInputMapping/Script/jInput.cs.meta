@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28d4e34cc3fb771438fa2f69badf72c3
+timeCreated: 1445014257
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MappingManagerPrefab: {fileID: 100000, guid: 5f29f01cdea2d7349a6e598800ddddeb,
+      type: 2}
+  - Ist: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
